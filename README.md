@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ash3rr
+- 👋 Hi, I’m Asher, just a guy from New Zealand who ended up in Europe. 
 - 👀 I’m interested in Databases, Cloud, Automation, DevOps, Data Engineering...
 - 🌱 I’m currently learning Kubernetes, DevOps, Terraform, Kafka, Docker, ELK, Prometheus/Grafana, 
 
