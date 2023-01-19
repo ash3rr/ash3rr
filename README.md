@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asher, just a guy from New Zealand who ended up in Europe. 
 - 👀 I’m interested in Databases, Cloud, Automation, DevOps, Data Engineering...
-- 🌱 I’m currently learning Kubernetes, DevOps, Terraform, Kafka, Docker, ELK, Prometheus/Grafana, 
+- 🌱 I’m currently learning Snowflake, dbt, Databricks, MlOps, Kubernetes, DevOps, Terraform, Kafka, Docker, ELK, Prometheus/Grafana
 
 <!---
 ash3rr/ash3rr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
